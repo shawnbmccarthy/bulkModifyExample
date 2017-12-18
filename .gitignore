@@ -417,6 +417,7 @@ buildNumber.properties
 # User-specific stuff:
 .idea/**/workspace.xml
 .idea/**/tasks.xml
+
 .idea/dictionaries
 
 # Sensitive or high-churn files:
@@ -494,3 +495,9 @@ vignettes/*.pdf
 # Temporary files created by R markdown
 *.utf8.md
 *.knit.md
+/bulkModifyExample.iml
+/.idea/
+/.idea/compiler.xml
+/.idea/misc.xml
+/.idea/modules.xml
+!/.idea/compiler.xml
